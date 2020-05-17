@@ -2,7 +2,7 @@
 ## Axios for PHP
 ### Installation:
 ```
-composer require twom/php-axios
+composer require twom/laravel-axios
 ```
 
 ### Requests methods:
