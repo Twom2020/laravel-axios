@@ -1,0 +1,48 @@
+{
+    "name": "twom/laravel-axios",
+    "description": "axios request in laravel",
+    "type": "library",
+    "require": {
+        "php": "^7.2",
+        "laravel/framework": "^6.2",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "keywords": [
+        "axios",
+        "curl",
+        "curl laravel",
+        "laravel curl",
+        "axios laravel",
+        "laravel axios",
+        "request",
+        "request laravel",
+        "laravel request",
+        "curl php",
+        "php curl",
+        "axios php",
+        "php axios",
+        "request",
+        "request php",
+        "php request"
+    ],
+    "homepage": "https://github.com/Twom2020/laravel-axios",
+    "authors": [
+        {
+            "name": "AliGhaleyan",
+            "email": "alighalehban1379@gmail.com"
+        },
+        {
+            "name": "alireza2000sajedi",
+            "email": "alireza2000sajedi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Twom\\Axios\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
