@@ -1,5 +1,5 @@
 ﻿
-## Axios for PHP
+## Axios for PHP (Laravel)
 ### Installation:
 ```
 composer require twom/laravel-axios
